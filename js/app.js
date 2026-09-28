@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       secElement.id = section.id;
       secElement.className = `card ${section.type}`;
 
-      let innerHTML = `<h2>${section.heading}</h2><p>${section.summary}</p>`;
+      let innerHTML = `<h2>${section.heading}</h2>${section.summary ? `<p>${section.summary}</p>` : ''}`;
 
       if (section.image) {
         innerHTML += `<img src="${section.image}" alt="${section.heading}" loading="lazy">`;
