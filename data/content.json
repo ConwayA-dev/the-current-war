@@ -1,0 +1,32 @@
+{
+  "siteTitle": "The Current War: Film Review & Historical Analysis",
+  "sections": [
+    {
+      "id": "overview",
+      "heading": "Overview & Core Thesis",
+      "type": "text-banner",
+      "summary": "An examination of Alfonso Gomez-Rejon's 'The Current War', focusing on the battle between Edison's DC infrastructure and Westinghouse-Tesla's AC polyphase grid.",
+      "image": "assets/hero-banner.jpg",
+      "callout": "Film Rating: Historical Fidelity vs. Dramatic Tension"
+    },
+    {
+      "id": "ac-vs-dc",
+      "heading": "The Physics & Economics: AC vs. DC",
+      "type": "comparison",
+      "summary": "Edison's direct current grid hit severe copper-gauge and line-loss limitations over distance, requiring generation plants every mile. Westinghouse capitalized on alternating current and transformers to step up voltage for long-distance, low-loss transmission.",
+      "image": "assets/transmission-diagram.jpg",
+      "techDetails": [
+        "DC Constraints: Low voltage, high current, heavy I²R thermal losses.",
+        "AC Advantage: High-voltage step-up reduces current and conductor mass.",
+        "The Chicago World's Fair (1893): Westinghouse severely underbids General Electric."
+      ]
+    },
+    {
+      "id": "scene-analysis",
+      "heading": "Key Scene: The World's Columbian Exposition",
+      "type": "video-review",
+      "youtubeId": "dQw4w9WgXcQ",
+      "commentary": "Analysis of the lighting of the 1893 fair and the visual contrast between Edison's personal brand and Westinghouse's industrial execution."
+    }
+  ]
+}
