@@ -1,32 +1,121 @@
 {
-  "siteTitle": "The Current War: Film Review & Historical Analysis",
-  "sections": [
+  "siteTitle": "The Current War | Historical Analysis",
+  "partitions": [
     {
-      "id": "overview",
-      "heading": "Overview & Core Thesis",
-      "type": "text-banner",
-      "summary": "An examination of Alfonso Gomez-Rejon's 'The Current War', focusing on the battle between Edison's DC infrastructure and Westinghouse-Tesla's AC polyphase grid.",
-      "image": "assets/hero-banner.jpg",
-      "callout": "Film Rating: Historical Fidelity vs. Dramatic Tension"
-    },
-    {
-      "id": "ac-vs-dc",
-      "heading": "The Physics & Economics: AC vs. DC",
-      "type": "comparison",
-      "summary": "Edison's direct current grid hit severe copper-gauge and line-loss limitations over distance, requiring generation plants every mile. Westinghouse capitalized on alternating current and transformers to step up voltage for long-distance, low-loss transmission.",
-      "image": "assets/transmission-diagram.jpg",
-      "techDetails": [
-        "DC Constraints: Low voltage, high current, heavy I²R thermal losses.",
-        "AC Advantage: High-voltage step-up reduces current and conductor mass.",
-        "The Chicago World's Fair (1893): Westinghouse severely underbids General Electric."
+      "id": "title-hero",
+      "navLabel": "Overview",
+      "heading": "The Current War (2017 / 2019)",
+      "subtitle": "Film Critique & Technological Assessment by Aloysius Conway",
+      "cards": [
+        {
+          "title": "Project Scope & Historical Thesis",
+          "text": "Alfonso Gomez-Rejon's 'The Current War: Director's Cut' dramatizes the late 19th-century infrastructure conflict between Thomas Edison's low-voltage direct current (DC) system and the alternating current (AC) polyphase grid championed by George Westinghouse and Nikola Tesla. This project evaluates the film's technological accuracy, dramatic license, and cultural depiction of the 2nd Industrial Revolution.",
+          "image": "assets/placeholder.svg",
+          "links": [
+            { "label": "Film IMDb Page", "url": "https://www.imdb.com/title/tt2140507/" }
+          ]
+        }
       ]
     },
     {
-      "id": "scene-analysis",
-      "heading": "Key Scene: The World's Columbian Exposition",
-      "type": "video-review",
-      "youtubeId": "dQw4w9WgXcQ",
-      "commentary": "Analysis of the lighting of the 1893 fair and the visual contrast between Edison's personal brand and Westinghouse's industrial execution."
+      "id": "plot-trailer",
+      "navLabel": "Plot & Trailer",
+      "heading": "Plot Summary & Official Trailer",
+      "subtitle": "The Battle to Electrify Gilded Age America",
+      "cards": [
+        {
+          "title": "Synopsis (Spoiler-Free)",
+          "text": "Set in the 1880s and 1890s, the film follows Thomas Edison as he illuminates Manhattan using direct current, backed by financier J.P. Morgan. Industrialist George Westinghouse recognizes DC's inherent transmission distance limits and wagers his fortune on high-voltage alternating current. As Nikola Tesla breaks away from Edison's lab to patent the polyphase induction motor, Edison wages an increasingly desperate public relations smear campaign to declare AC fatally unsafe, culminating in the historic bid to light the 1893 Chicago World's Fair.",
+          "youtubeId": "KaIiRGcfcPA"
+        }
+      ]
+    },
+    {
+      "id": "cast-director",
+      "navLabel": "Cast & Director",
+      "heading": "Cast, Crew, and Filmmaker Vision",
+      "subtitle": "Biographical Profiles and Creative Leadership",
+      "cards": [
+        {
+          "title": "Director: Alfonso Gomez-Rejon",
+          "text": "Known for 'Me and Earl and the Dying Girl', Gomez-Rejon brings a fast-paced, kinetic visual style characterized by split diopters, tilted angles, and rapid montage editing. After the original studio release was shelved during the collapse of The Weinstein Company, Gomez-Rejon regained creative control to re-edit and release the definitive 2019 Director's Cut.",
+          "image": "assets/placeholder.svg",
+          "links": [
+            { "label": "Director IMDb", "url": "https://www.imdb.com/name/nm0327264/" }
+          ]
+        },
+        {
+          "title": "Lead Cast & Character Portrayals",
+          "text": "Benedict Cumberbatch portrays Thomas Edison as an obstinate, celebrity-driven visionary whose brilliance is matched by his pride. Michael Shannon delivers an understated, principled performance as George Westinghouse. Nicholas Hoult captures Nikola Tesla's eccentric technical genius, while Matthew Macfadyen plays the ruthless capital interests of J.P. Morgan.",
+          "image": "assets/placeholder.svg",
+          "points": [
+            "Benedict Cumberbatch as Thomas Edison",
+            "Michael Shannon as George Westinghouse",
+            "Nicholas Hoult as Nikola Tesla",
+            "Tom Holland as Samuel Insull"
+          ],
+          "links": [
+            { "label": "Full Cast List on IMDb", "url": "https://www.imdb.com/title/tt2140507/fullcredits" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "navLabel": "Engineering & History",
+      "heading": "Educational Value: The Technology Clash",
+      "subtitle": "Physics, Grid Economics, and Historical Accuracy",
+      "cards": [
+        {
+          "title": "Transmission Physics: DC Line Loss vs. AC Transformers",
+          "text": "Edison's direct current (DC) system operated at low distribution voltages (~110V). Transmitting power over long distances required massive electrical currents, leading to unsustainable resistive thermal losses (P = I²R) and requiring dedicated coal-fired generating plants every one to two miles. Westinghouse realized that alternating current (AC) could be stepped up to thousands of volts using transformers, slashing current, drastically reducing copper conductor thickness, and carrying power dozens of miles before stepping down for household use.",
+          "image": "assets/placeholder.svg",
+          "points": [
+            "DC: Low voltage, high current, heavy conductor weight, short transmission radius.",
+            "AC: High voltage step-up, minimal copper gauge, long-distance transmission from remote hydro plants.",
+            "Historical Reality: The film accurately captures the economic and physical constraints that doomed standalone DC grids."
+          ],
+          "links": [
+            { "label": "IEEE History of the War of the Currents", "url": "https://ethw.org/War_of_the_Currents" },
+            { "label": "DOE: The War of the Currents", "url": "https://www.energy.gov/articles/war-currents-ac-vs-dc-power" }
+          ]
+        },
+        {
+          "title": "The Smear Campaign & The Electric Chair",
+          "text": "Facing commercial defeat, Edison and engineer Harold P. Brown exploited public fear by holding public animal electrocution demonstrations and covertly financing the development of the world's first alternating current electric chair for the execution of William Kemmler. The film accurately portrays Edison's ethical compromise as he attempted to have execution by electrocution termed being 'Westinghoused.'",
+          "image": "assets/placeholder.svg",
+          "links": [
+            { "label": "Library of Congress: Kemmler Execution", "url": "https://www.loc.gov/" }
+          ]
+        },
+        {
+          "title": "The Climax: The 1893 Chicago World's Fair",
+          "text": "The turning point of the conflict occurred when Westinghouse severely underbid General Electric to illuminate the 1893 World's Columbian Exposition in Chicago using Tesla's polyphase AC generators. Powering nearly 100,000 incandescent bulbs without a single failure proved the viability and safety of AC to the global public, directly leading to the development of the Niagara Falls hydroelectric project.",
+          "image": "assets/placeholder.svg"
+        }
+      ]
+    },
+    {
+      "id": "reception",
+      "navLabel": "Critique & Reception",
+      "heading": "Entertainment Value & Critical Reception",
+      "subtitle": "Analysis of Cinematic Craft and Critical Consensus",
+      "cards": [
+        {
+          "title": "Student Film Review",
+          "text": "While 'The Current War' occasionally prioritizes dizzying camera movement over character interiority, it succeeds in making electrical distribution economics visually cinematic. Michael Shannon's performance provides a necessary, grounded counterweight to Cumberbatch's frantic Edison. The film's primary strength lies in avoiding standard hagiography, portraying both men as flawed commercial operators navigating the dawn of corporate capitalism.",
+          "image": "assets/placeholder.svg"
+        },
+        {
+          "title": "Critical Consensus & External Reviews",
+          "text": "The film holds a 61% rating on Rotten Tomatoes (Director's Cut), with critics praising the dramatic re-edit compared to the compromised festival cut. Reviews from RogerEbert.com and Mark Kermode noted that while the historical exposition can feel compressed, the production design and visual scope faithfully capture Gilded Age industrial ambition.",
+          "image": "assets/placeholder.svg",
+          "links": [
+            { "label": "Rotten Tomatoes Review Page", "url": "https://www.rottentomatoes.com/m/the_current_war_directors_cut" },
+            { "label": "RogerEbert.com Critique", "url": "https://www.rogerebert.com/reviews/the-current-war-directors-cut-movie-review-2019" }
+          ]
+        }
+      ]
     }
   ]
 }
