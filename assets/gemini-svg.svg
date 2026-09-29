@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#161b22"/>
+  <rect x="20" y="20" width="760" height="460" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="400" cy="210" r="50" fill="#21262d" stroke="#f0883e" stroke-width="3"/>
+  <path d="M385 210 L395 190 L405 210 L415 190" stroke="#f0883e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="400" y="300" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="600" fill="#e6edf3" text-anchor="middle">Historical Image / Media Asset</text>
+  <text x="400" y="330" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle">Pending Film Still or Technical Schematic</text>
+</svg>
