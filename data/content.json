@@ -1,31 +1,46 @@
 {
-  "siteTitle": "The Current War | Historical Analysis",
+  "siteTitle": "The Current War | Film & Technology Analysis",
   "partitions": [
     {
-      "id": "title-hero",
+      "id": "overview",
       "navLabel": "Overview",
-      "heading": "The Current War (2017 / 2019)",
-      "subtitle": "Film Critique & Technological Assessment by Aloysius Conway",
+      "heading": "The Current War: Director's Cut (2019)",
+      "subtitle": "Film Critique & 2nd Industrial Revolution Assessment by Aloysius Conway",
       "cards": [
         {
-          "title": "Project Scope & Historical Thesis",
-          "text": "Alfonso Gomez-Rejon's 'The Current War: Director's Cut' dramatizes the late 19th-century infrastructure conflict between Thomas Edison's low-voltage direct current (DC) system and the alternating current (AC) polyphase grid championed by George Westinghouse and Nikola Tesla. This project evaluates the film's technological accuracy, dramatic license, and cultural depiction of the 2nd Industrial Revolution.",
+          "title": "Historical Scope & Core Thesis",
+          "text": "Alfonso Gomez-Rejon's 'The Current War' dramatizes the high-stakes clash between Thomas Edison, George Westinghouse, and Nikola Tesla. This historical fight was fought to determine whether direct current (DC) or alternating current (AC) would become the foundational standard for America's future power grid. While popular culture often remembers Edison as an untouchable hero of invention, the film presents a grounded and human look at how industrial ambition, patent wars, and public relations shaped the modern electrical age.",
           "image": "assets/hero-banner.jpg",
           "links": [
-            { "label": "Film IMDb Page", "url": "https://www.imdb.com/title/tt2140507/" }
+            { "label": "IMDb Film Page", "url": "https://www.imdb.com/title/tt2140507/" }
           ]
         }
       ]
     },
     {
-      "id": "plot-trailer",
-      "navLabel": "Plot & Trailer",
-      "heading": "Plot Summary & Official Trailer",
-      "subtitle": "The Battle to Electrify Gilded Age America",
+      "id": "plot",
+      "navLabel": "The Film (Spoilers)",
+      "heading": "The Film Breakdown (SUPER SPOILER EDITION)",
+      "subtitle": "How a Personal Rivalry Decided the Standard for America's Power Grid",
       "cards": [
         {
-          "title": "Synopsis (Spoiler-Free)",
-          "text": "Set in the 1880s and 1890s, the film follows Thomas Edison as he illuminates Manhattan using direct current, backed by financier J.P. Morgan. Industrialist George Westinghouse recognizes DC's inherent transmission distance limits and wagers his fortune on high-voltage alternating current. As Nikola Tesla breaks away from Edison's lab to patent the polyphase induction motor, Edison wages an increasingly desperate public relations smear campaign to declare AC fatally unsafe, culminating in the historic bid to light the 1893 Chicago World's Fair.",
+          "title": "Act I: A Spurned Invitation and the Flaws of Direct Current",
+          "text": "After Thomas Edison illuminates lower Manhattan with direct current, Pittsburgh industrialist George Westinghouse invites Edison to a formal dinner to propose an alliance. Edison spurns the invitation and orders his train to bypass the station as Westinghouse waits on the platform. Offended by the slight, Westinghouse begins studying electrical distribution on his own. He soon realizes that Edison's DC system has severe distance limits that make it impractical for nationwide expansion, setting the stage for an intense fight to prove alternating current is the superior path for the future.",
+          "image": "assets/train-spurned.jpg"
+        },
+        {
+          "title": "Act II: Tesla's Struggle and the AC Alliance",
+          "text": "Nikola Tesla arrives in New York eager to work for Edison and proposes that alternating current can carry electricity over hundreds of miles. Edison dismisses Tesla's ideas as dangerous and refuses to pay him promised bonuses. Tesla resigns in frustration and falls into deep poverty, eventually digging ditches just to survive. Westinghouse eventually tracks Tesla down and purchases his alternating current patents, giving Westinghouse the working motor he needs to take on Edison's electrical empire.",
+          "image": "assets/tesla-ditch.jpg"
+        },
+        {
+          "title": "Act III: The Chicago World's Fair and the Defeat of Edison",
+          "text": "The competition reaches its climax in the bidding war to power the 1893 World's Columbian Exposition in Chicago. When Edison uses patent lawsuits to block Westinghouse from using his light bulbs, Westinghouse bypasses the obstacle by engineering the two-piece stopper bulb. Westinghouse underbids Edison, lights the fair with thousands of alternating current lamps without a single failure, and secures the landmark contract at Niagara Falls. Edison is pushed out of his own electrical business as J.P. Morgan consolidates the company into General Electric.",
+          "image": "assets/chicago-expo.jpg"
+        },
+        {
+          "title": "Official Theatrical Trailer",
+          "text": "The official theatrical trailer highlights the film's visual approach and captures the central conflict between Benedict Cumberbatch as Edison, Michael Shannon as Westinghouse, and Nicholas Hoult as Tesla.",
           "youtubeId": "kue18AxK1tU"
         }
       ]
@@ -33,20 +48,20 @@
     {
       "id": "cast-director",
       "navLabel": "Cast & Director",
-      "heading": "Cast, Crew, and Filmmaker Vision",
-      "subtitle": "Biographical Profiles and Creative Leadership",
+      "heading": "Cast, Filmmakers & Character Dynamics",
+      "subtitle": "Performances That Humanize Gilded Age Titans",
       "cards": [
         {
           "title": "Director: Alfonso Gomez-Rejon",
-          "text": "Known for 'Me and Earl and the Dying Girl', Gomez-Rejon brings a fast-paced, kinetic visual style characterized by split diopters, tilted angles, and rapid montage editing. After the original studio release was shelved during the collapse of The Weinstein Company, Gomez-Rejon regained creative control to re-edit and release the definitive 2019 Director's Cut.",
+          "text": "Director Alfonso Gomez-Rejon gives this historical drama a fast and energetic style by relying on Dutch angles, tracking shots, and strong lighting contrast to reflect the themes of electricity. The movie was shelved in 2017 during the collapse of The Weinstein Company, but Gomez-Rejon eventually regained control to film pick-up scenes and release his true Director's Cut in 2019.",
           "image": "assets/director-alfonso.jpg",
           "links": [
-            { "label": "Director IMDb", "url": "https://www.imdb.com/name/nm0327264/" }
+            { "label": "Director Filmography (IMDb)", "url": "https://www.imdb.com/name/nm0327264/" }
           ]
         },
         {
           "title": "Lead Cast & Character Portrayals",
-          "text": "Benedict Cumberbatch portrays Thomas Edison as an obstinate, celebrity-driven visionary whose brilliance is matched by his pride. Michael Shannon delivers an understated, principled performance as George Westinghouse. Nicholas Hoult captures Nikola Tesla's eccentric technical genius, while Matthew Macfadyen plays the ruthless capital interests of J.P. Morgan.",
+          "text": "Benedict Cumberbatch plays Edison as an obstinate and proud innovator whose public image matters as much as his work. Michael Shannon brings a quiet and principled presence to George Westinghouse, making him a steady counterweight to Edison. Nicholas Hoult highlights Tesla's technical brilliance alongside his social isolation, and Tom Holland plays Samuel Insull, Edison's loyal assistant who watches the business slip away.",
           "image": "assets/cast-grid.jpg",
           "points": [
             "Benedict Cumberbatch as Thomas Edison",
@@ -55,64 +70,84 @@
             "Tom Holland as Samuel Insull"
           ],
           "links": [
-            { "label": "Full Cast List on IMDb", "url": "https://www.imdb.com/title/tt2140507/fullcredits" }
+            { "label": "Full Cast & Crew List", "url": "https://www.imdb.com/title/tt2140507/fullcredits" }
           ]
         }
       ]
     },
     {
       "id": "technology",
-      "navLabel": "Engineering & History",
-      "heading": "Educational Value: The Technology Clash",
-      "subtitle": "Physics, Grid Economics, and Historical Accuracy",
+      "navLabel": "Technology & Inventions",
+      "heading": "Technologies of the 2nd Industrial Revolution",
+      "subtitle": "The Inventions That Decided America's Energy and Media Infrastructure",
       "cards": [
         {
-          "title": "Transmission Physics: DC Line Loss vs. AC Transformers",
-          "text": "Edison's direct current (DC) system operated at low distribution voltages (~110V). Transmitting power over long distances required massive electrical currents, leading to unsustainable resistive thermal losses (P = I²R) and requiring dedicated coal-fired generating plants every one to two miles. Westinghouse realized that alternating current (AC) could be stepped up to thousands of volts using transformers, slashing current, drastically reducing copper conductor thickness, and carrying power dozens of miles before stepping down for household use.",
+          "title": "1. Direct Current (DC) vs. Alternating Current (AC) Transmission",
+          "text": "Edison's direct current system operated at low household voltages around 110 volts. Because transmitting high power at low voltage requires massive electric current, Edison's lines suffered from heavy resistive heat loss (P = I²R). Thick copper conductors were required, and generation stations had to be built every mile. Alternating current solved this limitation by using step-up transformers to boost voltage into the thousands. This allowed electricity to travel over long distances through thinner wires before step-down transformers reduced the voltage safely for homes.",
           "image": "assets/transmission-diagram.jpg",
           "points": [
-            "DC: Low voltage, high current, heavy conductor weight, short transmission radius.",
-            "AC: High voltage step-up, minimal copper gauge, long-distance transmission from remote hydro plants.",
-            "Historical Reality: The film accurately captures the economic and physical constraints that doomed standalone DC grids."
+            "DC: Low voltage, high current, heavy copper cables, and a one-mile transmission limit.",
+            "AC: High-voltage transmission, smaller conductors, and long-range power delivery from central plants.",
+            "Historical Significance: This physical difference made AC the practical foundation for the modern national grid."
           ],
           "links": [
-            { "label": "IEEE Milestones: Pearl Street Station", "url": "https://ethw.org/Milestones:Pearl_Street_Station,_1882" },
-            { "label": "DOE: The War of the Currents", "url": "https://www.energy.gov/articles/war-currents-ac-vs-dc-power" }
+            { "label": "DOE History: War of the Currents", "url": "https://www.energy.gov/articles/war-currents-ac-vs-dc-power" },
+            { "label": "IEEE: Pearl Street Milestone", "url": "https://ethw.org/Milestones:Pearl_Street_Station,_1882" }
           ]
         },
         {
-          "title": "The Smear Campaign & The Electric Chair",
-          "text": "Facing commercial defeat, Edison and engineer Harold P. Brown exploited public fear by holding public animal electrocution demonstrations and covertly financing the development of the world's first alternating current electric chair for the execution of William Kemmler. The film accurately portrays Edison's ethical compromise as he attempted to have execution by electrocution termed being 'Westinghoused.'",
+          "title": "2. Tesla's Polyphase AC Induction Motor",
+          "text": "Before Tesla's breakthrough, alternating current had one glaring flaw: there was no practical motor that could run on it. Direct current motors relied on mechanical brushes and commutators that wore out quickly and generated dangerous sparks. Tesla designed an induction motor that utilized alternating polyphase currents to produce a rotating magnetic field. This allowed a rotor to turn entirely through magnetic induction without any mechanical brushes, providing the durable industrial motor that AC needed to power factories and transit systems.",
+          "image": "assets/tesla-motor.jpg"
+        },
+        {
+          "title": "3. Edison's Incandescent Light Bulb",
+          "text": "Thomas Edison did not create the first light bulb, but he perfected the first commercially viable incandescent system. He developed a high-resistance carbonized bamboo filament enclosed in an evacuated glass bulb with a standardized screw base. This high resistance allowed bulbs to run efficiently in parallel circuits so that one burned-out lamp did not shut off the rest of the building.",
+          "image": "assets/edison-bulb.jpg"
+        },
+        {
+          "title": "4. Westinghouse's Stopper Bulb Solution",
+          "text": "When Westinghouse won the contract to illuminate the 1893 Chicago World's Fair, Edison secured a court injunction forbidding Westinghouse from using Edison's patented one-piece fused glass bulb. To avoid a massive financial disaster, Westinghouse acquired the Sawyer-Man lamp patents and manufactured the 'stopper bulb.' This design featured a two-piece glass body sealed with a ground-glass plug and used cheaper iron lead wires, allowing Westinghouse to supply almost 100,000 bulbs without infringing on Edison's patents.",
+          "image": "assets/stopper-bulb.jpg"
+        },
+        {
+          "title": "5. Edison's Wax Cylinder Phonograph",
+          "text": "As the corporate battle dragged on, Edison turned back to his earlier breakthroughs to keep his laboratory funded. The phonograph recorded sound waves by indenting physical grooves onto a rotating tinfoil or wax cylinder with a vibrating stylus, then played the audio back through a mechanical diaphragm and horn. The film shows this device in an intimate moment where Edison records his dying wife Mary so he can preserve her voice.",
+          "image": "assets/phonograph.jpg"
+        },
+        {
+          "title": "6. The Kinetograph and Kinetoscope (Early Motion Pictures)",
+          "text": "Toward the end of the film at the Chicago World's Fair, Edison realizes that alternating current has won the electrical war. Instead of admitting complete defeat, he shifts his creative energy toward motion pictures. Edison shows Westinghouse a strip of perforated celluloid film and explains his work on the Kinetograph camera and Kinetoscope peep-hole viewer, remarking that moving pictures would become so significant that people would eventually forget he ever worked on electricity.",
+          "image": "assets/kinetoscope.jpg"
+        },
+        {
+          "title": "7. The Electric Chair and the Smear Campaign",
+          "text": "In a bid to frighten the public away from alternating current, Edison covertly funded engineer Harold P. Brown to hold public animal electrocution demonstrations. Edison then secretly helped arrange for Westinghouse AC generators to be installed at Auburn Prison for the 1890 execution of William Kemmler, hoping people would associate AC with sudden death and start calling electrocution being 'Westinghoused.' The resulting botched execution horrified the public and damaged Edison's moral reputation.",
           "image": "assets/electric-chair.jpg",
           "links": [
             { "label": "Library of Congress: Kemmler Execution", "url": "https://www.loc.gov/" }
           ]
-        },
-        {
-          "title": "The Climax: The 1893 Chicago World's Fair",
-          "text": "The turning point of the conflict occurred when Westinghouse severely underbid General Electric to illuminate the 1893 World's Columbian Exposition in Chicago using Tesla's polyphase AC generators. Powering nearly 100,000 incandescent bulbs without a single failure proved the viability and safety of AC to the global public, directly leading to the development of the Niagara Falls hydroelectric project.",
-          "image": "assets/chicago-expo.jpg"
         }
       ]
     },
     {
       "id": "reception",
-      "navLabel": "Critique & Reception",
-      "heading": "Entertainment Value & Critical Reception",
-      "subtitle": "Analysis of Cinematic Craft and Critical Consensus",
+      "navLabel": "Critique & Accuracy",
+      "heading": "Critique, Historical Accuracy & Reception",
+      "subtitle": "Separating Hollywood Drama from Historical Truth",
       "cards": [
         {
           "title": "Student Film Review",
-          "text": "While 'The Current War' occasionally prioritizes dizzying camera movement over character interiority, it succeeds in making electrical distribution economics visually cinematic. Michael Shannon's performance provides a necessary, grounded counterweight to Cumberbatch's frantic Edison. The film's primary strength lies in avoiding standard hagiography, portraying both men as flawed commercial operators navigating the dawn of corporate capitalism.",
+          "text": "'The Current War' avoids standard movie cliches by showing both Edison and Westinghouse as complex men driven by personal ambition and corporate survival. Michael Shannon gives Westinghouse a calm and dignified presence that anchors the story, balancing Benedict Cumberbatch's portrayal of Edison as a frantic and stubborn visionary. The film does an excellent job of turning complex engineering principles and business deals into an engaging story.",
           "image": "assets/film-review.jpg"
         },
         {
-          "title": "Critical Consensus & External Reviews",
-          "text": "The film holds a 61% rating on Rotten Tomatoes (Director's Cut), with critics praising the dramatic re-edit compared to the compromised festival cut. Reviews from RogerEbert.com and Mark Kermode noted that while the historical exposition can feel compressed, the production design and visual scope faithfully capture Gilded Age industrial ambition.",
+          "title": "Historical Accuracy vs. Dramatic License",
+          "text": "The film gets the science and corporate rivalry right, but it takes several dramatic liberties with real history. Thomas Edison and George Westinghouse never had a direct conversation in real life, meaning their climactic dialogue at the Chicago World's Fair was invented by the writers to give the rivalry emotional closure. Additionally, Edison had already been forced out of Edison General Electric before the fair opened, after J.P. Morgan orchestrated the merger that created General Electric.",
           "image": "assets/critics-scores.jpg",
           "links": [
-            { "label": "Rotten Tomatoes Review Page", "url": "https://www.rottentomatoes.com/m/the_current_war_directors_cut" },
-            { "label": "RogerEbert.com Critique", "url": "https://www.rogerebert.com/reviews/the-current-war-movie-review-2019" }
+            { "label": "Rotten Tomatoes (61%)", "url": "https://www.rottentomatoes.com/m/the_current_war_directors_cut" },
+            { "label": "RogerEbert.com Full Review", "url": "https://www.rogerebert.com/reviews/the-current-war-movie-review-2019" }
           ]
         }
       ]
