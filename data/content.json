@@ -9,7 +9,7 @@
       "cards": [
         {
           "title": "Historical Scope & Core Thesis",
-          "text": "Do you know why we use AC power instead of DC for our electrical grid today? The Current War dramatizes the real events that led to that choice. If history turned out differently, our infrastructure might look completely different. The film focuses on the intense rivalry between Thomas Edison, George Westinghouse, and Nikola Tesla as they fought over the future of electrical transmission. Instead of treating Edison like an untouchable genius, the story shows how practical engineering, patent disputes, and public relations campaigns really decided which system powered the nation.",
+          "text": "Do you know why we use AC power instead of DC for our electrical grid today? The Current War dramatizes the real events that led to that choice. If history turned out differently, our infrastructure might look completely different. The film focuses on the intense rivalry between Thomas Edison, George Westinghouse, and Nikola Tesla as they fought over the future of electrical transmission. The story shows how practical engineering, patent disputes, and public relations campaigns really decided which system powered the nation.",
           "image": "assets/hero-banner.jpg",
           "links": [
             { "label": "IMDb Film Page", "url": "https://www.imdb.com/title/tt2140507/" }
@@ -25,7 +25,7 @@
       "cards": [
         {
           "title": "Act I: A Spurned Invitation and the Flaws of Direct Current",
-          "text": "After Thomas Edison illuminates lower Manhattan with direct current, Pittsburgh industrialist George Westinghouse invites Edison to a formal dinner to propose an alliance. Edison spurns the invitation and orders his train to bypass the station as Westinghouse waits on the platform. Offended by the slight, Westinghouse begins studying electrical distribution on his own. He soon realizes that Edison's DC system has severe distance limits that make it impractical for nationwide expansion, setting the stage for an intense fight to prove alternating current is the superior path for the future.",
+          "text": "This early scene reveals the moment that may have snowballed into the decision where our country ended up adopting AC power instead of DC. After successfully lighting lower Manhattan, Edison was scheduled to stop in Pittsburgh for dinner with industrialist George Westinghouse to discuss working together. Instead of getting off the train, an exhausted Edison simply decided he was tired, complained that he had shaken too many hands that day, and ordered the train to keep rolling past the platform where Westinghouse was waiting. Spurned by this disrespect, Westinghouse began investigating electrical systems out of pure spite and competition. He soon realized that Edison's DC grid had severe distance limits, convincing Westinghouse to pour his fortune into alternating current to prove Edison wrong.",
           "image": "assets/train-spurned.jpg"
         },
         {
@@ -83,7 +83,7 @@
       "cards": [
         {
           "title": "1. Direct Current (DC) vs. Alternating Current (AC) Transmission",
-          "text": "Edison's direct current system operated at low household voltages around 110 volts. Because transmitting high power at low voltage requires massive electric current, Edison's lines suffered from heavy resistive heat loss (P = I²R). Thick copper conductors were required, and generation stations had to be built every mile. Alternating current solved this limitation by using step-up transformers to boost voltage into the thousands. This allowed electricity to travel over long distances through thinner wires before step-down transformers reduced the voltage safely for homes.",
+          "text": "Edison's direct current system operated at low household levels around 110 volts. Because transmitting power at low voltage requires massive current, Edison's lines suffered from heavy resistive heat loss (P = I²R). This demanded thick copper cables and required a local generating plant roughly every mile. At the time, transformers only worked with alternating current because they rely on a changing magnetic field, and DC cannot be stepped up or down with a transformer. Without modern solid-state power electronics, which would not exist for nearly a century, stepping high-voltage DC up and down for grid transmission was impossible. Westinghouse realized that AC relied on simple, low-maintenance step-up transformers to boost voltage into the thousands, drastically cutting current and wire size over long distances before step-down transformers safely lowered the voltage for homes.",
           "image": "assets/transmission-diagram.jpg",
           "points": [
             "DC: Low voltage, high current, heavy copper cables, and a one-mile transmission limit.",
@@ -125,7 +125,7 @@
           "text": "In a bid to frighten the public away from alternating current, Edison covertly funded engineer Harold P. Brown to hold public animal electrocution demonstrations. Edison then secretly helped arrange for Westinghouse AC generators to be installed at Auburn Prison for the 1890 execution of William Kemmler, hoping people would associate AC with sudden death and start calling electrocution being 'Westinghoused.' The resulting botched execution horrified the public and damaged Edison's moral reputation.",
           "image": "assets/electric-chair.jpg",
           "links": [
-            { "label": "Library of Congress: Kemmler Execution", "url": "https://www.loc.gov/" }
+            { "label": "Library of Congress: Kemmler Execution", "url": "https://www.loc.gov/search/?in=&q=kemmler+execution&new=true" }
           ]
         }
       ]
@@ -138,7 +138,7 @@
       "cards": [
         {
           "title": "Student Film Review",
-          "text": "'The Current War' avoids standard movie cliches by showing both Edison and Westinghouse as complex men driven by personal ambition and corporate survival. Michael Shannon gives Westinghouse a calm and dignified presence that anchors the story, balancing Benedict Cumberbatch's portrayal of Edison as a frantic and stubborn visionary. The film does an excellent job of turning complex engineering principles and business deals into an engaging story.",
+          "text": "The Current War was a really fun movie to watch. The multi-channel sound effects and deep bass did a fantastic job building tension during the technical demonstrations and business standoffs. All the characters were driven by complex emotions rather than just greed, showing how personal pride and stubbornness influenced their decisions. Their wives played solid support roles, especially when grounding the inventors during their hardest moments. The filmmakers did a great job making the world feel like it really would have back then, turning corporate deals and electrical engineering into an exciting story.",
           "image": "assets/film-review.jpg"
         },
         {
