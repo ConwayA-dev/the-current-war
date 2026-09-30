@@ -8,12 +8,17 @@
       "subtitle": "Film Critique & 2nd Industrial Revolution Assessment by Aloysius Conway",
       "cards": [
         {
-          "title": "Historical Scope & Core Thesis",
+          "title": "Historical Background & Main Focus",
           "text": "Do you know why we use AC power instead of DC for our electrical grid today? The Current War dramatizes the real events that led to that choice. If history turned out differently, our infrastructure might look completely different. The film focuses on the intense rivalry between Thomas Edison, George Westinghouse, and Nikola Tesla as they fought over the future of electrical transmission. The story shows how practical engineering, patent disputes, and public relations campaigns really decided which system powered the nation.",
           "image": "assets/hero-banner.jpg",
           "links": [
             { "label": "IMDb Film Page", "url": "https://www.imdb.com/title/tt2140507/" }
           ]
+        },
+        {
+          "title": "Official Theatrical Trailer",
+          "text": "The official theatrical trailer highlights the film's visual approach and captures the central conflict between Benedict Cumberbatch as Edison, Michael Shannon as Westinghouse, and Nicholas Hoult as Tesla.",
+          "youtubeId": "kue18AxK1tU"
         }
       ]
     },
@@ -37,11 +42,6 @@
           "title": "Act III: The Chicago World's Fair and the Defeat of Edison",
           "text": "The competition reaches its climax in the bidding war to power the 1893 World's Columbian Exposition in Chicago. When Edison uses patent lawsuits to block Westinghouse from using his light bulbs, Westinghouse bypasses the obstacle by engineering the two-piece stopper bulb. Westinghouse underbids Edison, lights the fair with thousands of alternating current lamps without a single failure, and secures the landmark contract at Niagara Falls. Edison is pushed out of his own electrical business as J.P. Morgan consolidates the company into General Electric.",
           "image": "assets/chicago-expo.jpg"
-        },
-        {
-          "title": "Official Theatrical Trailer",
-          "text": "The official theatrical trailer highlights the film's visual approach and captures the central conflict between Benedict Cumberbatch as Edison, Michael Shannon as Westinghouse, and Nicholas Hoult as Tesla.",
-          "youtubeId": "kue18AxK1tU"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "cards": [
         {
           "title": "Director: Alfonso Gomez-Rejon",
-          "text": "Director Alfonso Gomez-Rejon gives this historical drama a fast and energetic style by relying on Dutch angles, tracking shots, and strong lighting contrast to reflect the themes of electricity. The movie was shelved in 2017 during the collapse of The Weinstein Company, but Gomez-Rejon eventually regained control to film pick-up scenes and release his true Director's Cut in 2019.",
+          "text": "The director Alfonso Gomez-Rejon makes the movie feel fast and lively instead of like a normal boring history documentary. He uses a lot of tilted camera angles, moving tracking shots, and bright electrical sparks contrasted against dark rooms to match the energy of the story. The movie apparently had a rough road getting released because the studio behind it went bankrupt in 2017. It sat on a shelf for a couple of years until the director was finally able to shoot some extra scenes, re-edit the whole project, and put out his official Director's Cut in 2019.",
           "image": "assets/director-alfonso.jpg",
           "links": [
             { "label": "Director Filmography (IMDb)", "url": "https://www.imdb.com/name/nm0327264/" }
@@ -61,7 +61,7 @@
         },
         {
           "title": "Lead Cast & Character Portrayals",
-          "text": "Benedict Cumberbatch plays Edison as an obstinate and proud innovator whose public image matters as much as his work. Michael Shannon brings a quiet and principled presence to George Westinghouse, making him a steady counterweight to Edison. Nicholas Hoult highlights Tesla's technical brilliance alongside his social isolation, and Tom Holland plays Samuel Insull, Edison's loyal assistant who watches the business slip away.",
+          "text": "I thought the cast did a really nice job bringing the story to life. Benedict Cumberbatch makes Edison feel genuinely proud and difficult to work with, especially when his ego gets in the way of good engineering. On the other side, Michael Shannon plays Westinghouse as a steady, quiet businessman who just wanted a fair shot at building the grid. You also get Nicholas Hoult showing Tesla's eccentric side and how isolated he felt, alongside Tom Holland as Edison's assistant trying to keep everything together as their company falls apart.",
           "image": "assets/cast-grid.jpg",
           "points": [
             "Benedict Cumberbatch as Thomas Edison",
