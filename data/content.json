@@ -9,7 +9,7 @@
       "cards": [
         {
           "title": "Historical Scope & Core Thesis",
-          "text": "Alfonso Gomez-Rejon's 'The Current War' dramatizes the high-stakes clash between Thomas Edison, George Westinghouse, and Nikola Tesla. This historical fight was fought to determine whether direct current (DC) or alternating current (AC) would become the foundational standard for America's future power grid. While popular culture often remembers Edison as an untouchable hero of invention, the film presents a grounded and human look at how industrial ambition, patent wars, and public relations shaped the modern electrical age.",
+          "text": "Do you know why we use AC power instead of DC for our electrical grid today? The Current War dramatizes the real events that led to that choice. If history turned out differently, our infrastructure might look completely different. The film focuses on the intense rivalry between Thomas Edison, George Westinghouse, and Nikola Tesla as they fought over the future of electrical transmission. Instead of treating Edison like an untouchable genius, the story shows how practical engineering, patent disputes, and public relations campaigns really decided which system powered the nation.",
           "image": "assets/hero-banner.jpg",
           "links": [
             { "label": "IMDb Film Page", "url": "https://www.imdb.com/title/tt2140507/" }
@@ -20,7 +20,7 @@
     {
       "id": "plot",
       "navLabel": "The Film (Spoilers)",
-      "heading": "The Film Breakdown (SUPER SPOILER EDITION)",
+      "heading": "The Film Breakdown (SPOILERS)",
       "subtitle": "How a Personal Rivalry Decided the Standard for America's Power Grid",
       "cards": [
         {
